@@ -1,2 +1,5 @@
-# Myresume
-A portfolio website made up of HTML, CSS telling about my accomplishments.
+# Temparature Converter
+It is a simple website using CSS, HTML,
+JAVASCRIPT to convert temperature form
+Celsius to Fahrenheit and etc.
+
